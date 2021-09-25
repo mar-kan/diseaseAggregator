@@ -17,7 +17,7 @@ The script is used to create the input files required for the execution of the p
   
   ------------------
   
-  This project is an extesion of the diseaseMonitor project with about the same functionality but processes were added to this version, using forks. 
+  This project is an extesion of the diseaseMonitor project (https://github.com/mar-kan/diseaseMonitor) with about the same functionality but processes were added to this version, using forks. 
   
  2 executionables were created, diseaseAggregatorMain, which starts the program, and WorkerMain, which is called through the child processes
     of the diseaseAggregator.
