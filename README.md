@@ -1,8 +1,8 @@
 # diseaseAggregator
-project in c/cpp for System Programming course in universiry for processes 
+project in c/cpp for Systems Programming course in universiry for processes 
 
 
-# Script create_inflies.h
+# Script create_infiles.h
 execution instructions: $ ./create_infiles.sh diseasesFile.txt countriesFile.txt <nameOfDir> <numOfFiles> <numOfRecs>
   
   ------------------
